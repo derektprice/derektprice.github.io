@@ -74,6 +74,13 @@
     width:70%
 }
 
+/* Responsive layout - see lower comment */
+@media screen and (max-width:600px) {
+  .child {
+    width: 100%;
+  }
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
