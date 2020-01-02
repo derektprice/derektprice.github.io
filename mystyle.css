@@ -165,13 +165,15 @@ a.email{
     text-decoration: underline;
 }
 .events.vertical{
-    max-width:80%;
+    max-width: 50%;
+	min-width: 225px;
     display: block;
     margin:auto;
     padding:10px;
 }
 .events.horizontal{
-    max-width:95%;
+    max-width: 55%;
+	min-width: 275px;
     display: block;
     margin:auto;
     padding:10px;
@@ -182,4 +184,10 @@ a.email{
     display:block;
     margin:auto;
     padding: 20px 0;
+}
+
+.ytvid{
+	margin: 0 auto;
+	display: block;
+	padding: 5px;
 }
