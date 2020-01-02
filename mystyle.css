@@ -165,13 +165,13 @@ a.email{
     text-decoration: underline;
 }
 .events.vertical{
-    max-width:30em;
+    max-width:80%;
     display: block;
     margin:auto;
     padding:10px;
 }
 .events.horizontal{
-    max-width:40em;
+    max-width:95%;
     display: block;
     margin:auto;
     padding:10px;
