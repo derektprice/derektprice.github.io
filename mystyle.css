@@ -157,6 +157,7 @@ img.syllabus{
     display: block;
     align:left;
     max-width:100%;
+	min-width:300px;
 }
 a.email{
     font-size:1.1em;
